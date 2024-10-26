@@ -1,44 +1,35 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Random Food Generator 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: PIXEL RUSH
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Nandana Gopakumar Lekha Nair - SCMS School Of ENgineering And Technology
+- Member 2: Faseela Rahmath - SCMS School Of ENgineering And Technology
+- Member 3: Muhammed Azar NK - SCMS School Of ENgineering And Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+Generates random food names to eat on random days
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+When we crave for food we try to eat it when we get the chance like if I would like to eat something today either I will eat it by today or max. tomorrow or sometimes we may get confused when to eat.So our project gives you a random date to eat it.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Randomly picking dates to eat food.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML
+- CSS
+- JAVA SCRIPT
 
 ### Implementation
 For Software:
-# Installation
-[commands]
-
 # Run
 [commands]
 
