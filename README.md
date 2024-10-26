@@ -1,46 +1,39 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Random Food Generator] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Pixel Rush]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Nandana Gopakumar Lekha Nair] - [SCMS School Of Engineering And Technology]
+- Member 2: [Muhammed Azar NK] - [SCMS School Of Engineering And Technology]
+- Member 3: [Name] - [SCMS School Of Engineering And Technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+What our project is trying to do show us random foods to eat on very random dates.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Searching for random food names 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Generating random food names
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML
+- CSS
+- JAVA SCRIPT
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+NIL
 # Run
-[commands]
+TERMINAL
 
 ### Project Documentation
 For Software:
