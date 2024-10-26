@@ -1,19 +1,19 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Random Food Generator  🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: PIXEL RUSH
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Nandana Gopakumar Lekha Nair  - SCMS School Of Engineering And Technology
+- Member 2: Faseela Rahmath   - SCMS School Of Engineering And Technology
+- Member 3: Muhammed Azar NK  - SCMS School Of Engineering And Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
